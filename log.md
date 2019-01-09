@@ -17,5 +17,6 @@ The following topics will be explored:
 
 No progress yet.
 Planning ~4 hours to go through Head First Javascript and some Plural Sight classes.
- Word Up!
 
+
+Learning git. Set up remote repository and beginning to familiarize myself with git and git bash.
