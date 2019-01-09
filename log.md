@@ -13,10 +13,4 @@ The following topics will be explored:
 
 ### Day 1 (Jan 9)
 
-~12 pm
-
-No progress yet.
-Planning ~4 hours to go through Head First Javascript and some Plural Sight classes.
-
-
 Learning git. Set up remote repository and beginning to familiarize myself with git and git bash.
