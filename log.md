@@ -14,8 +14,3 @@ The following topics will be explored:
 ### Day 1 (Jan 9)
 
 Learning git. Set up remote repository and beginning to familiarize myself with git and git bash.
-
-How does this work?
-
-This is pretty lol.
-
