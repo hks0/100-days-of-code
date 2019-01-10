@@ -21,4 +21,4 @@ Practiced git with vscode.
 
 Continue with git and vscode. Will explore one of the following:
 - Basic HTML to aid with javascript in a few days
--Blah blah blah.
+- Blah blah blah.
