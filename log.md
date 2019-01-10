@@ -20,5 +20,5 @@ Practiced git with vscode.
 ### Day 2 (Jan 10)
 
 Continue with git and vscode. Will explore one of the following:
-- Basic HTML to aid with javascript in a few days
-- Blah blah blah.
+- Basic HTML/JS
+- Computer architecture (textbooks: computer architecture & operating system concepts)
