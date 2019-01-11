@@ -29,3 +29,13 @@ It is quite enjoyable to use.
 Started Basic HTML examples on freeCodeCamp; need to look more into anchors because I'm slightly confused. 
 
 Testing vscode terminal.
+
+TLDR; 
+-More git/vscode. Using git bash inside of vscode.
+-Basic HTML exercises, need to practice.
+
+### Day 3 (Jan 11)
+
+Today, I plan on starting the Quick Start to Javascript course on PS. (https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents)
+
+In addition, going to practice the HTML exercises from yesterday.
