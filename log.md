@@ -32,8 +32,8 @@ Testing vscode terminal.
 
 #### TLDR; 
 
--More git/vscode. Using git bash inside of vscode.
--Basic HTML exercises, need to practice.
+- More git/vscode. Using git bash inside of vscode.
+- Basic HTML exercises, need to practice.
 
 ### Day 3 (Jan 11)
 
