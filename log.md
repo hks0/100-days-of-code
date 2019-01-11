@@ -27,3 +27,5 @@ Starting late... Played around with Wacom Intuos Draw tablet for diagramming, ps
 It is quite enjoyable to use. 
 
 Started Basic HTML examples on freeCodeCamp; need to look more into anchors because I'm slightly confused. 
+
+Testing vscode terminal.
