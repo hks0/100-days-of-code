@@ -22,3 +22,6 @@ Practiced git with vscode.
 Continue with git and vscode. Will explore one of the following:
 - Basic HTML/JS
 - Computer architecture (textbooks: computer architecture & operating system concepts)
+
+Starting late... Played around with Wacom Intuos Draw tablet for diagramming, pseudocode etc. 
+It is quite enjoyable to use. 
