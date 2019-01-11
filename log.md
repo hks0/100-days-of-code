@@ -30,7 +30,7 @@ Started Basic HTML examples on freeCodeCamp; need to look more into anchors beca
 
 Testing vscode terminal.
 
-# TLDR; 
+#### TLDR; 
 
 -More git/vscode. Using git bash inside of vscode.
 -Basic HTML exercises, need to practice.
