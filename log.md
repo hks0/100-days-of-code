@@ -26,4 +26,4 @@ Continue with git and vscode. Will explore one of the following:
 Starting late... Played around with Wacom Intuos Draw tablet for diagramming, pseudocode etc. 
 It is quite enjoyable to use. 
 
-Started Basic HTML examples on freeCodeCamp
+Started Basic HTML examples on freeCodeCamp; need to look more into anchors because I'm slightly confused. 
