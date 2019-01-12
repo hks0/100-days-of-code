@@ -43,7 +43,7 @@ Did check a bit of HTML and CSS before I start looking at JS. Basically now I am
 
 ## Day 4 (Jan 12)
 
-Planning for 8-12 hours today (maybe split 50/50 coding/research, respectively)
+Planning for 8-12 hours today (maybe split 50/50 coding/research, respectively).
 
 Some topics to explore:
 - HTML & CSS first. Perhaps the Design and Build Websites book.
