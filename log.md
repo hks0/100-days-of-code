@@ -40,3 +40,11 @@ Testing vscode terminal.
 Not much coding today.. Able to double up on day 4 though.
 
 Did check a bit of HTML and CSS before I start looking at JS. Basically now I am organizing my Day 4.
+
+### Day 4 (Jan 12)
+
+Expecting around 8 hours today (maybe split 50/50 coding/research, respectively)
+
+Some topics to explore:
+- HTML & CSS first. Perhaps the Design and Build Websites book.
+- JS. This is the goal, but want to understand the basics first. I have numerous textbooks to check out, which should be plenty. 
