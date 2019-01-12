@@ -35,13 +35,13 @@ Testing vscode terminal.
 - More git/vscode. Using git bash inside of vscode.
 - Basic HTML exercises, need to practice.
 
-### Day 3 (Jan 11)
+## Day 3 (Jan 11)
 
 Not much coding today.. Able to double up on day 4 though.
 
 Did check a bit of HTML and CSS before I start looking at JS. Basically now I am organizing my Day 4.
 
-### Day 4 (Jan 12)
+## Day 4 (Jan 12)
 
 Expecting around 8 hours today (maybe split 50/50 coding/research, respectively)
 
