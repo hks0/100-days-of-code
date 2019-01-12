@@ -37,6 +37,6 @@ Testing vscode terminal.
 
 ### Day 3 (Jan 11)
 
-Today, I plan on starting the Quick Start to Javascript course on PS. (https://app.pluralsight.com/library/courses/quick-start-javascript-1-1870/table-of-contents)
+Not much coding today.. Able to double up on day 4 though.
 
-In addition, going to practice the HTML exercises from yesterday.
+Did check a bit of HTML and CSS before I start looking at JS. Basically now I am organizing my Day 4.
