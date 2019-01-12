@@ -48,3 +48,5 @@ Expecting around 8 hours today (maybe split 50/50 coding/research, respectively)
 Some topics to explore:
 - HTML & CSS first. Perhaps the Design and Build Websites book.
 - JS. This is the goal, but want to understand the basics first. I have numerous textbooks to check out, which should be plenty. 
+- Spitballing, but could check out some pen testing, or other books like Clean Code or Code Complete.
+- Plan curriculum based on CompTIA exam topics.
