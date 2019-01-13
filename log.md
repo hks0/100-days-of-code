@@ -5,14 +5,15 @@ The log of my #100DaysOfCode challenge. Probably going to shoot for 365 days. St
 ## Log
 
 <body>
-<p>
 <style type="text/css">
     p {
         font-size: medium;
     }
 </style>    
-    
-Day 0 (Jan 8)</p>
+
+<p>    
+    Day 0 (Jan 8)
+</p>
 </body>
 
 Decided on basic curriculum for next month or so.
