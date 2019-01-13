@@ -4,6 +4,7 @@ The log of my #100DaysOfCode challenge. Probably going to shoot for 365 days. St
 
 ## Log
 
+<head>
 <p>
 <style type="text/css">
     p {
@@ -12,6 +13,7 @@ The log of my #100DaysOfCode challenge. Probably going to shoot for 365 days. St
 </style>    
     
 Day 0 (Jan 8)</p>
+<head>
 
 Decided on basic curriculum for next month or so.
 The following topics will be explored:
