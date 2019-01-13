@@ -54,6 +54,6 @@ Some topics to explore:
 Today, I have made it through the first 7 chapters of Head First HTML and CSS (~270 pages). I have really enjoyed the book thus far. The first chapters were mostly HTML, but CSS is being introduced now.
 
 I've learned:
-- HTML syntax such as elements, attributes, and how to use multiple elements in some scenarios (linking to img on other websites, alt text for img, how to set ids and href directly to them [< a href="https://blahblahlink.com/folder/randomimg.png">TextforLink</a   >])
+- HTML syntax such as elements, attributes, and how to use multiple elements in some scenarios (linking to img on other websites, alt text for img, how to set ids and href directly to them [< a href="https://blahblahlink.com/folder/randomimg.png">TextforLink< /a >])
 - correct ways to structure my tags; differences between inline/block elements
 - very basic CSS, just starting the chapter
