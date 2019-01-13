@@ -57,3 +57,5 @@ I've learned:
 - HTML syntax such as elements, attributes, and how to use multiple elements in some scenarios (linking to img on other websites, alt text for img, how to set ids and href directly to them. Here's the syntax on how you would create a link on your own webpage that says "TextforLink", where the link navigates to website/folder/img [< a href="https://blahblahlink.com/folder/randomimg.png">TextforLink< /a >])
 - correct ways to structure my tags; differences between inline/block elements
 - very basic CSS, just starting the chapter
+
+Basically, several hours of HTML reading and working the examples from Head First HTML & CSS. Thinking of using the material from the book to start up my own website, instead of just using their examples.
