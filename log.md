@@ -3,18 +3,8 @@
 The log of my #100DaysOfCode challenge. Probably going to shoot for 365 days. Started on [Wednesday, January 9, 2019].
 
 ## Log
-
-<body>
-<style type="text/css">
-    p {
-        font-size: medium;
-    }
-</style>    
-
-<p>    
-    Day 0 (Jan 8)
-</p>
-</body>
+  
+## Day 0 (Jan 8)
 
 Decided on basic curriculum for next month or so.
 The following topics will be explored:
