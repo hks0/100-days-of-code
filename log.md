@@ -2,6 +2,8 @@
 
 The log of my #100DaysOfCode challenge. Probably going to shoot for 365 days. Started on [Wednesday, January 9, 2019].
 
+This list will get long. ctrl + f will be the best way to get around. I will try to list notable sections here. 
+
 ## Log
   
 ## Day 0 (Jan 8)
@@ -54,7 +56,7 @@ Some topics to explore:
 
 Today, I have made it through the first 7 chapters of Head First HTML and CSS (~270 pages). I have really enjoyed the book thus far. The first chapters were mostly HTML, but CSS is being introduced now.
 
-I've learned:
+Today:
 - HTML syntax such as elements, attributes, and how to use multiple elements in some scenarios (linking to img on other websites, alt text for img, how to set ids and href directly to them. Here's the syntax on how you would create a link on your own webpage that says "TextforLink", where the link navigates to website/folder/img [< a href="https://blahblahlink.com/folder/randomimg.png">TextforLink< /a >])
 - correct ways to structure my tags; differences between inline/block elements
 - very basic CSS, just starting the chapter
