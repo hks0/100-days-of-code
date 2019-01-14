@@ -60,3 +60,10 @@ I've learned:
 - very basic CSS, just starting the chapter
 
 Basically, several hours of HTML reading and working the examples from Head First HTML & CSS. Thinking of using the material from the book to start up my own website, instead of just using their examples.
+
+## Day 5 (Jan 13)
+
+Kind of took Sunday off. Still watched a couple youtube videos on various subjects, but no actual coding.
+
+## Day 6 (Jan 14)
+
