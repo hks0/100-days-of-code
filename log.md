@@ -69,3 +69,14 @@ Kind of took Sunday off. Still watched a couple youtube videos on various subjec
 
 ## Day 6 (Jan 14)
 
+Getting ready for work. Hard to get anything done.
+
+## Day 7 (Jan 15)
+
+## Day 8 (Jan 16)
+
+## Day 9 (Jan 17)
+
+Going to resume my Head First HTML book. Hoping to go through ch. 7-10.
+
+Finally starting some CSS.
