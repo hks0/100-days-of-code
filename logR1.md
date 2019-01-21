@@ -1,8 +1,8 @@
-# #100DaysOfCode Log - Huston Hollister
+# #100DaysOfCode Round 1 Log - Huston Hollister
 
 The log of my #100DaysOfCode challenge. Probably going to shoot for 365 days. Started on [Wednesday, January 9, 2019].
 
-This list will get long. ctrl + f will be the best way to get around. I will try to list notable sections here. 
+This list will get long. ctrl + f will be the best way to get around. I will try to list notable sections here. ROUND 1 OVER.
 
 ## Log
   
