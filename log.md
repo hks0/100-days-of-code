@@ -80,3 +80,5 @@ Getting ready for work. Hard to get anything done.
 Going to resume my Head First HTML book. Hoping to go through ch. 7-10.
 
 Finally starting some CSS. On the side, I'd like to look into what basic JS looks like.
+
+# Round 1 Progress has been halted. Starting work. Want to start a round 2 once I get settled.
