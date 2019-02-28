@@ -14,7 +14,7 @@ The following topics will be explored:
 - computer architecture (textbooks: computer architecture & operating system concepts)
 - javascript
 
-## Day 1 (Jan 9)
+## Day 1 (Jan )
 
 Learning git. Set up remote repository and beginning to familiarize myself with git and git bash.
 
