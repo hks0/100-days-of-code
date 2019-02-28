@@ -14,7 +14,7 @@ The following topics will be explored:
 - computer architecture (textbooks: computer architecture & operating system concepts)
 - javascript
 
-## Day 1 (Jan )
+## Day 1 (Jan 9)
 
 Learning git. Set up remote repository and beginning to familiarize myself with git and git bash.
 
@@ -29,7 +29,7 @@ Continue with git and vscode. Will explore one of the following:
 Starting late... Played around with Wacom Intuos Draw tablet for diagramming, pseudocode etc. 
 It is quite enjoyable to use. 
 
-Started Basic HTML examples on freeCodeCamp; need to look more into anchors because I'm slightly confused. 
+Started Basic HTML examples on freeCodeCamp. Hello.
 
 Testing vscode terminal.
 
