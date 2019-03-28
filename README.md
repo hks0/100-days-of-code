@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# ~~CURRENTLY CANCELLED~~ I've joined the #100DaysOfCode Challenge
 
 ## Contents
 
