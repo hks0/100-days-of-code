@@ -21,7 +21,7 @@ Still trying to organize all the resources and everything. There is so much it i
 - OSSU - Dedicated for the next 30 days ./
 - Networks - Few weeks (Probably get Raspberry Pi 4 to tinker with)
 - Start making my own projects and messing with them
-- Explore CTFs/Hack Sites (Hack the box, hack this site etc)
+- Explore CTFs/Hack Sites (Hack the box, hack this site etc) \
 Total: 5 months (May ETA)
 
 __Let's keep this train rolling.__
