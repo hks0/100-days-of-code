@@ -24,6 +24,6 @@ Start making my own projects and messing with them
 Explore CTFs/Hack Sites (Hack the box, hack this site etc)
 Total: 5 months (May ETA)
 
-Let's keep this train rolling.
+__Let's keep this train rolling.__
 
 ## Day 1 
