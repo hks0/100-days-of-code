@@ -6,7 +6,7 @@ The log of my #100DaysOfCode challenge. Started on [Monday, January 6, 2020].
   
 ## Day 0 (Jan 6)
 
-Looking at a course part of OSSU on edX. (https://tinyurl.com/ydnff3au)
+Looking at a course part of OSSU on edX. (https://tinyurl.com/ydnff3au). It is called How to Code: Simple Data.
 
 It explores basic math and using Dr Racket for programming. Pretty easy and concise so far. 
 
