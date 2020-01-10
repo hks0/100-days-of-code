@@ -27,3 +27,5 @@ Total: 5 months (May ETA)
 __Let's keep this train rolling.__
 
 ## Day 1 
+
+This will officially start January, Friday 10th.
