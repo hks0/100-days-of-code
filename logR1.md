@@ -28,4 +28,4 @@ __Let's keep this train rolling.__
 
 ## Day 1 
 
-This will officially start January, Friday 10th.
+This will officially start Sunday, January 20th. 
